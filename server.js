@@ -47,10 +47,11 @@ const portfolio = {
 // Route to get the full portfolio
 app.get('/portfolio', (req, res) => {
     res.json({
-        message: "Here is my full portfolio. Buckle up for an awesome ride!",
+        message: "Here is my full portfolio. Buckle up for an awesome ride! 🚀 Too tired to read it all? Check out each section individually: `/about`, `/skills`, `/experience`, `/projects`, `/education`, `/contact`. Enjoy!",
         portfolio
     });
 });
+
 
 app.get('/portfolio/about', (req, res) => {
     res.json({
