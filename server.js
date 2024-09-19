@@ -37,6 +37,10 @@ app.get('/portfolio', (req, res) => {
     res.json(portfolio);
 });
 
+app.get('/', (req, res) => {
+    res.json('Hey nothing is here , go to /portfolio to see my portfolio');
+});
+
 // Start the server
 app.listen(port, () => {
     console.log(`Portfolio API running at http://localhost:${port}`);
