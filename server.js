@@ -8,7 +8,7 @@ app.use(express.json());
 const portfolio = {
     name: "Wasif Hussain",
     title: "Full Stack Developer Extraordinaire",
-    about: "I am a full-stack developer specializing in MERN. I also have experience with Next.js and an unhealthy obsession with coffee.",
+    about: "I am a full-stack developer specializing in MERN. I also have experience with Next.js and an unhealthy obsession with movies.",
     skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "Node.js", "Express", "EJS", "SQL", "MongoDB", "Java"],
     experience: [{
         name: "Full Stack Developer Intern",
