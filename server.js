@@ -23,10 +23,56 @@ const portfolio = {
             links: {
                 live: "https://imageaifusion.vercel.app/",
                 github: "https://github.com/Wasif0787/Clloudinary-SAAS"
-            },
-            funFact: "It uses AI to create stunning images—no, it's not magic, just a lot of code."
+            }
         },
-        // other projects...
+        {
+            title: "Threads Clone",
+            technology: "MERN",
+            links: {
+                live: "https://threads-backend-kzv5.onrender.com/",
+                github: "https://github.com/Wasif0787/Threads-Clone"
+            }
+        },
+        {
+            title: "Blog Page",
+            technology: "HTML, CSS, JS, EJS, NodeJS, MongoDB",
+            links: {
+                live: "https://blog-v3-68i7.onrender.com/",
+                github: "https://github.com/Wasif0787/blog-v3"
+            }
+        },
+        {
+            title: "Secrets Keeper",
+            technology: "HTML, CSS, JS, EJS, NodeJS, MongoDB with User Authentication",
+            links: {
+                live: "https://secret-message-4uap.onrender.com/",
+                github: "https://github.com/Wasif0787/SecretsFinder"
+            }
+        },
+        {
+            title: "Student Management System",
+            technology: "HTML, CSS, PHP, MySQL",
+            links: {
+                live: "https://student-management-system-wasif.000webhostapp.com/",
+                github: "https://github.com/Wasif0787/School-Management-System"
+            }
+        },
+        {
+            title: "Covid Tracker",
+            technology: "React.js, Typescript",
+            links: {
+                live: "https://covid-tracker-wasif.netlify.app/",
+                github: "https://github.com/Wasif0787/Covid-Tracker"
+            }
+        },
+        {
+            title: "Contact Management System",
+            technology: "React.js, Redux",
+            links: {
+                live: "https://cms-redux.netlify.app/",
+                github: "https://github.com/Wasif0787/Contact-Management-System"
+            }
+        }
     ],
     education: [{
         name: "Bachelor of Technology",
